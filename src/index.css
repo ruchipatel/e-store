@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-primary{
+    --tw-bg-opacity: 1;
+    background-color: rgb(48 86 211 / var(--tw-bg-opacity));
+  }
+  .container
+  {
+    margin: 0 auto;
+  }
